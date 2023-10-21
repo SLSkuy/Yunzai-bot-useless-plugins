@@ -1,4 +1,4 @@
-# Yunzai-bot-useless-plugins
+# Yunzai-bot-useless-plugins（基于yunzai-bot开发）
 ## 让我帮你百度一下(Let me Baidu it for you)
 还在为伸手党而烦恼吗(
 
